@@ -4,9 +4,10 @@
 
 ---
 
-### hello
+### git
 
-- [Pedro](hello/pedro-2020-05-04.md) - 2020-05-04
+- [How to push a branch until a specific commit](git/push-until-some-specific-commit-2020-05-04.md) - 2020-05-04
+- [cherry pick a range of commits](git/cherry-pick-a-range-of-commits-2020-05-04.md) - 2020-05-04
 
 ### macos
 
