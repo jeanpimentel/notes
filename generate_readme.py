@@ -74,7 +74,10 @@ def generate_category(category: str) -> str:
 
 
 def generate_item(note: Note) -> str:
-    return f'- [{note.title}]({note.filepath}) - {note.created_at}\n'
+    if note.created_at:
+        return f'- [{note.title}]({note.filepath}) - {note.created_at}\n'
+
+    return f'- [{note.title}]({note.filepath})\n'
 
 
 def generate_footer() -> str:
