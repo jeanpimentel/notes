@@ -2,23 +2,23 @@
 
 1. you need pyenv
 
-```
+```shell
 brew install pyenv
 ```
 
 2. add pyenv path
 
-```
+```shell
 echo 'export PATH="$(pyenv root)/shims:$PATH"' >> ~/.zshrc
 ```
 
 3. install python version
 
-```
+```shell
 pyenv install --list | grep 3.X.Y
 ```
 
-```
+```shell
 pyenv install 3.X.Y
 python-build: use openssl@1.1 from homebrew
 python-build: use readline from homebrew
@@ -32,13 +32,13 @@ Installed Python-3.X.Y to /Users/<user>/.pyenv/versions/3.X.Y
 
 4. list installed python versions
 
-```
+```shell
 pyenv versions
 ```
 
 5. if you want to change the default version
 
-```
+```shell
 pyenv global 3.X.Y
 ```
 
