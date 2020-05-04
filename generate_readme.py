@@ -1,34 +1,31 @@
 #!/usr/bin/env python
 
 import os
-import subprocess
+import re
 from dataclasses import dataclass
 from operator import attrgetter
-from typing import List
+from typing import List, Optional
 
 
 @dataclass
 class Note:
     filepath: str
-    created_at: str
     category: str
     title: str
+    created_at: str
 
 
-def get_title(file: str) -> str:
-    return file.split('.')[0].replace('-', ' ')
+def get_title(filepath: str) -> str:
+    with open(filepath) as note:
+        return next(note).strip('#').strip()
 
 
-def get_date(filepath: str) -> str:
-    command = f'git log --format=%as --reverse --follow -- {filepath} | head -1'
-    output = subprocess.run(
-        command,
-        shell=True,
-        check=True,
-        stdout=subprocess.PIPE,
-        universal_newlines=True
-    )
-    return output.stdout.strip()
+def get_date(file: str) -> Optional[str]:
+    match = re.search(r'(\d{4}-\d{2}-\d{2})', file)
+    if match:
+        return match.group(0)
+
+    return ''
 
 
 def get_notes() -> List[Note]:
@@ -51,9 +48,9 @@ def get_notes() -> List[Note]:
             results.append(
                 Note(
                     filepath=filepath,
-                    created_at=get_date(filepath),
+                    created_at=get_date(file),
                     category=basedir,
-                    title=get_title(file),
+                    title=get_title(filepath),
                 )
             )
 

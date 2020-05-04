@@ -4,17 +4,7 @@
 
 ---
 
-### macos
 
-- [move an off screen window back on screen](macos/move-an-off-screen-window-back-on-screen.md) - 2020-05-01
-
-### python
-
-- [install python versions on macos](python/install-python-versions-on-macos.md) - 2020-05-01
-
-### recipes
-
-- [brigadeiro](recipes/brigadeiro.md) - 2020-05-01
 
 ---    
 #### License

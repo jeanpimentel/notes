@@ -1,4 +1,4 @@
-# Install python versions on macos
+# Install python versions on macOS
 
 1. you need pyenv
 
