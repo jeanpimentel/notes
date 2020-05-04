@@ -6,7 +6,7 @@
 
 ### git
 
-- [How to push a branch until a specific commit](git/push-until-some-specific-commit-2020-05-04.md) - 2020-05-04
+- [Push a branch until a specific commit](git/push-until-some-specific-commit-2020-05-04.md) - 2020-05-04
 - [cherry pick a range of commits](git/cherry-pick-a-range-of-commits-2020-05-04.md) - 2020-05-04
 
 ### macos
@@ -19,7 +19,11 @@
 
 ### recipes
 
-- [Brigadeiro](recipes/brigadeiro.md) - 
+- [Brigadeiro](recipes/brigadeiro.md)
+
+### web
+
+- [Console.log and more](web/console-log-2020-05-04.md) - 2020-05-04
 
 ---    
 #### License
