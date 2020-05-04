@@ -1,4 +1,4 @@
-# How to push a branch until a specific commit
+# Push a branch until a specific commit
 
 ```shell
 git push <origin> <commit sha>:<remote branch name>
