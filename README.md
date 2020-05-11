@@ -25,6 +25,7 @@
 ### recipes
 
 - [Brigadeiro](recipes/brigadeiro.md)
+- [Easy donuts](recipes/easy-donuts-2-ingredients.md)
 
 ### web
 
