@@ -20,6 +20,7 @@
 
 ### python
 
+- [Colorized logs](python/colorized-logs-2020-05-15.md) - 2020-05-15
 - [Install python versions on macOS](python/install-python-versions-on-macos-2020-04-28.md) - 2020-04-28
 
 ### recipes
