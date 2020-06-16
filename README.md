@@ -10,6 +10,7 @@
 
 ### git
 
+- [How To Prefix Your Commit Message With a Ticket Number Automatically](git/prefix-your-commit-message-2020-06-16.md) - 2020-06-16
 - [List files changed between two branches](git/list-files-changed-between-branches-2020-05-04.md) - 2020-05-04
 - [Push a branch until a specific commit](git/push-until-some-specific-commit-2020-05-04.md) - 2020-05-04
 - [cherry pick a range of commits](git/cherry-pick-a-range-of-commits-2020-05-04.md) - 2020-05-04
