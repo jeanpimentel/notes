@@ -8,6 +8,10 @@
 
 - [android alpha hex](android/alpha-hex-2016-01-27.md) - 2016-01-27
 
+### entertainment
+
+- [suggestions](entertainment/suggestions.md)
+
 ### git
 
 - [how to prefix your commit message with a ticket number automatically](git/prefix-your-commit-message-2020-06-16.md) - 2020-06-16
@@ -18,6 +22,10 @@
 ### macos
 
 - [move an off screen window back on screen](macos/move-an-off-screen-window-back-on-screen-2020-04-23.md) - 2020-04-23
+
+### meta
+
+- [references](meta/references.md)
 
 ### python
 
