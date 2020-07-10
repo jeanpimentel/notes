@@ -8,6 +8,10 @@
 
 - [android alpha hex](android/alpha-hex-2016-01-27.md) - 2016-01-27
 
+### career
+
+- [how to review pull requests](career/how-to-review-pull-requests-2019-07-03.md) - 2019-07-03
+
 ### entertainment
 
 - [suggestions](entertainment/suggestions.md)
