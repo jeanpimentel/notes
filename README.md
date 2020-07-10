@@ -19,6 +19,10 @@
 - [push a branch until a specific commit](git/push-until-some-specific-commit-2020-05-04.md) - 2020-05-04
 - [cherry pick a range of commits](git/cherry-pick-a-range-of-commits-2020-05-04.md) - 2020-05-04
 
+### human-languages
+
+- [english](human-languages/english.md)
+
 ### macos
 
 - [move an off screen window back on screen](macos/move-an-off-screen-window-back-on-screen-2020-04-23.md) - 2020-04-23
