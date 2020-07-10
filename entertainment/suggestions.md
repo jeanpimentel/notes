@@ -2,6 +2,7 @@
 
 ### Books
 
+* [Lock In](https://en.wikipedia.org/wiki/Lock_In)
 * [Hyperion Cantos](https://en.wikipedia.org/wiki/Hyperion_Cantos)
 * [A Fire Upon the Deep](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep)
 
