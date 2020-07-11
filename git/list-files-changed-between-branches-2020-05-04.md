@@ -34,4 +34,4 @@ X        - Unknown
 <score> is similarity between the source and target of move or copy
 ```
 
-Source: [https://git-scm.com/docs/git-diff](), [https://git-scm.com/docs/git-status]()
+Source: [https://git-scm.com/docs/git-diff](https://git-scm.com/docs/git-diff), [https://git-scm.com/docs/git-status](https://git-scm.com/docs/git-status)

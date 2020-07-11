@@ -30,4 +30,4 @@ bugifx/myproj-789 → MYPROJ-789
 123_some_feature → 123
 ```
 
-Source: [https://medium.com/better-programming/how-to-automatically-add-the-ticket-number-in-git-commit-message-bda5426ded05]()
+Source: [https://medium.com/better-programming/how-to-automatically-add-the-ticket-number-in-git-commit-message-bda5426ded05](https://medium.com/better-programming/how-to-automatically-add-the-ticket-number-in-git-commit-message-bda5426ded05)

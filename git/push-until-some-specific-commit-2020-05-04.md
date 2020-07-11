@@ -22,4 +22,4 @@ git push origin d7d6bc5:my-branch-name
 
 This way, `78e66ef` and `cd00e1b` won't be pushed.
 
-Source: [https://stackoverflow.com/a/3230241]()
+Source: [https://stackoverflow.com/a/3230241](https://stackoverflow.com/a/3230241)

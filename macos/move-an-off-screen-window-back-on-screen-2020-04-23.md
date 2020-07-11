@@ -10,4 +10,4 @@ Solution:
 2. Select the window
 2. Click on the Window menu, then click Zoom
 
-Source: [https://superuser.com/questions/55341/move-an-off-screen-window-back-on-screen-on-mac-os-x]()
+Source: [https://superuser.com/questions/55341/move-an-off-screen-window-back-on-screen-on-mac-os-x](https://superuser.com/questions/55341/move-an-off-screen-window-back-on-screen-on-mac-os-x)
