@@ -1,4 +1,0 @@
-[submodule "docs"]
-	path = docs
-	url = https://github.com/jeanpimentel/notes.git
-	branch = main
