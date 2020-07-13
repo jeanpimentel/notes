@@ -1,6 +1,6 @@
 # Notes
 
-🗒 My collection of notes, tips, ideas, etc
+🗒 My collection of notes, tips, ideas, etc
 
 ---
 
@@ -53,8 +53,9 @@
 
 - [console.log and more](web/console-log-2020-05-04.md) - 2020-05-04
 
----    
-#### License
+---
+
+### License
 - All content here is released under [CC-BY-SA](LICENSE-CC-BY-SA) license.
 - All code here is released under [MIT](LICENSE-MIT) license.
 
