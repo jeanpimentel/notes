@@ -1,5 +1,5 @@
 # Notes
 
-🗒 My collection of notes, tips, ideas, etc
+🗒 My collection of notes, tips, ideas, etc
 
 ---
