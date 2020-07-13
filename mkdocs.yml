@@ -1,0 +1,39 @@
+site_name: My Notes
+
+theme: 
+  name: material
+  features:
+    # - instant
+    - tabs
+  language: en
+  # palette:
+  #   primary: red
+  # logo: logo.png
+
+# repo_name: jeanpimentel/notes
+# repo_url: https://github.com/jeanpimentel/notes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/jeanpimentel
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/jeanpimentel
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/jeanpimentel
+
+markdown_extensions:
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+
+plugins: 
+  - search
+  - minify:
+      minify_html: true
