@@ -1,4 +1,4 @@
-# cherry pick a range of commits
+# Cherry pick a range of commits
 
 Instead of cherry pick commits one by one, you can pass a range of commits with:
 

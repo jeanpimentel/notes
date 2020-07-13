@@ -20,6 +20,7 @@
 ---
 
 [Indicamos 6 livros sci-fi de autores publicados pela primeira vez no Brasil em 2016](https://medium.com/pela-toca/indicamos-6-livros-sci-fi-de-autores-publicados-pela-primeira-vez-no-brasil-em-2016-f9b7456aaf83)
+
 - [x] Guerra do Velho - John Scalzi
 - [ ] A História da Sua Vida e Outros Contos - Ted Chiang (inspirou _A Chegada_)
 - [ ] Faca de Água - Paolo Bacigalupi
