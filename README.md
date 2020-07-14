@@ -25,6 +25,7 @@
 
 ### human-languages
 
+- [curiosities](human-languages/curiosities.md)
 - [english](human-languages/english.md)
 
 ### javascript
