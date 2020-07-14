@@ -1,26 +1,56 @@
-site_name: My Notes
+site_name: jeanpimentel's notes
+site_url: https://jeanpimentel.github.io/notes
+site_author: Jean Pimentel
+site_description: My collection of notes, tips, ideas etc
+
+
+copyright: |
+  All content here is released under <a href="/LICENSE-CC-BY-SA">CC-BY-SA</a> license. 
+  All code here is released under <a href="/LICENSE-MIT">MIT</a> license.
+
+
+repo_name: jeanpimentel/notes
+repo_url: https://github.com/jeanpimentel/notes
+edit_uri: blob/main/
+
 
 theme: 
   name: material
-  features:
-    # - instant
-    - tabs
-  language: en
-  # palette:
-  #   primary: red
-  # logo: logo.png
 
-# repo_name: jeanpimentel/notes
-# repo_url: https://github.com/jeanpimentel/notes
+  custom_dir: overrides
+
+  features:
+    - instant
+    # - tabs
+
+  language: en
+
+  palette:
+    # primary: red
+    # accent: red
+    primary: deep purple
+    accent: deep purple
+
+  icon:
+    logo: material/book-open-variant
+
+  favicon: favicon.png
+
+extra_css:
+  - css/extra.css
+
 
 extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/jeanpimentel
+
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/jeanpimentel
+
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/jeanpimentel
+
 
 markdown_extensions:
   - codehilite
@@ -29,11 +59,18 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.superfences
   - pymdownx.tasklist:
-      custom_checkbox: true
+      custom_checkbox: false
   - pymdownx.tabbed
   - pymdownx.tilde
+
 
 plugins: 
   - search
   - minify:
       minify_html: true
+  - git-revision-date-localized:
+      type: date
+  - exclude:
+      glob:
+        - generate_readme.py
+        - .notes

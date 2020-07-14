@@ -1,0 +1,19 @@
+/* HIDE RIGHT SIDEBAR - START */
+.md-sidebar--secondary {
+  display: none;
+}
+
+@media screen and (min-width: 76.25em) {
+	.md-content {
+		max-width: calc(100% - 12.1rem)
+	}
+}
+/* HIDE RIGHT SIDEBAR - END */
+
+.md-header-nav__title {
+	padding: 0 1rem 0 0;
+}
+
+.md-nav__link {
+	text-transform: lowercase;
+}
