@@ -60,6 +60,7 @@ const elements = [
 ```js
 console.table(elements[0])
 ```
+
 | (index) | Value     |
 |---------|-----------|
 | number  | 1         |
@@ -70,6 +71,7 @@ console.table(elements[0])
 ```js
 console.table(elements)
 ```
+
 | (index) | number | symbol | name     |
 |---------|--------|--------|----------|
 | 0       | 1      | "H"    | Hydrogen |
