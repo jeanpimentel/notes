@@ -14,6 +14,7 @@
 
 ### entertainment
 
+- [books](entertainment/books.md)
 - [suggestions](entertainment/suggestions.md)
 
 ### git
