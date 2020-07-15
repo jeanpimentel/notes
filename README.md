@@ -6,6 +6,8 @@
 
 ### android
 
+- [acessibilidade 101](android/acessibilidade-2017-05-17.md) - 2017-05-17
+- [diffutil](android/diff-util-2017-03-21.md) - 2017-03-21
 - [android alpha hex](android/alpha-hex-2016-01-27.md) - 2016-01-27
 
 ### career
