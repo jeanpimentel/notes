@@ -31,6 +31,19 @@
 - [curiosities](human-languages/curiosities.md)
 - [english](human-languages/english.md)
 
+### ios
+
+- [cifilter](ios/cifilter-2016-08-24.md) - 2016-08-24
+- [dynamic type](ios/dynamic-type-2016-08-24.md) - 2016-08-24
+- [low power mode](ios/low-power-mode-2016-08-24.md) - 2016-08-24
+- [uiimageview.startanimating](ios/uiimageview-animation-2016-08-24.md) - 2016-08-24
+- [uiimageview.transitionwithview](ios/uiimageview-transition-2016-08-24.md) - 2016-08-24
+- [cidetector](ios/cidetector-2016-08-23.md) - 2016-08-23
+- [javascriptcore](ios/javascriptcore-2016-08-23.md) - 2016-08-23
+- [nscache](ios/nscache-2016-08-23.md) - 2016-08-23
+- [nsdatadetector](ios/nsdatadetector-2016-08-23.md) - 2016-08-23
+- [string transform](ios/string-transform-2016-08.24.md)
+
 ### javascript
 
 - [javascript references](javascript/references.md)
