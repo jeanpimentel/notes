@@ -10,6 +10,10 @@
 - [diffutil](android/diff-util-2017-03-21.md) - 2017-03-21
 - [android alpha hex](android/alpha-hex-2016-01-27.md) - 2016-01-27
 
+### apis
+
+- [telegram api](apis/telegram-2020-05-24.md) - 2020-05-24
+
 ### career
 
 - [how to review pull requests](career/how-to-review-pull-requests-2019-07-03.md) - 2019-07-03
