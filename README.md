@@ -18,6 +18,10 @@
 
 - [how to review pull requests](career/how-to-review-pull-requests-2019-07-03.md) - 2019-07-03
 
+### cooking
+
+- [notes](cooking/notes.md)
+
 ### entertainment
 
 - [books](entertainment/books.md)
@@ -62,6 +66,7 @@
 
 ### python
 
+- [cron expressions to datetimes](python/cron-expressions-to-datetimes-2020-07-16.md) - 2020-07-16
 - [colorized logs](python/colorized-logs-2020-05-15.md) - 2020-05-15
 - [install python versions on macos](python/install-python-versions-on-macos-2020-04-28.md) - 2020-04-28
 
