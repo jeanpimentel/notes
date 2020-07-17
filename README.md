@@ -44,13 +44,13 @@
 - [cifilter](ios/cifilter-2016-08-24.md) - 2016-08-24
 - [dynamic type](ios/dynamic-type-2016-08-24.md) - 2016-08-24
 - [low power mode](ios/low-power-mode-2016-08-24.md) - 2016-08-24
+- [string transform](ios/string-transform-2016-08-24.md) - 2016-08-24
 - [uiimageview.startanimating](ios/uiimageview-animation-2016-08-24.md) - 2016-08-24
 - [uiimageview.transitionwithview](ios/uiimageview-transition-2016-08-24.md) - 2016-08-24
 - [cidetector](ios/cidetector-2016-08-23.md) - 2016-08-23
 - [javascriptcore](ios/javascriptcore-2016-08-23.md) - 2016-08-23
 - [nscache](ios/nscache-2016-08-23.md) - 2016-08-23
 - [nsdatadetector](ios/nsdatadetector-2016-08-23.md) - 2016-08-23
-- [string transform](ios/string-transform-2016-08.24.md)
 
 ### javascript
 
@@ -67,9 +67,9 @@
 ### python
 
 - [cron expressions to datetimes](python/cron-expressions-to-datetimes-2020-07-16.md) - 2020-07-16
+- [clean architecture in python](python/clean-architecture-in-python-2020-07-13.md) - 2020-07-13
 - [colorized logs](python/colorized-logs-2020-05-15.md) - 2020-05-15
 - [install python versions on macos](python/install-python-versions-on-macos-2020-04-28.md) - 2020-04-28
-- [clean architecture in python](python/clean-architecture-in-python-2019-07-13.md) - 2019-07-13
 
 ### recipes
 
