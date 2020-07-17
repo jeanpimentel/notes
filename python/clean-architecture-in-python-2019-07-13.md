@@ -107,7 +107,7 @@ These names *document* what each section of code is doing
 
 
 
-- Dependency Injection
+### Dependency Injection
 
 ```python
 def find_definition(word, requests=requests):
@@ -128,16 +128,14 @@ def test_find_definition():
 ```
 
 1. Your mock is **not the real library**
-
 2. This might look simple for *one service*
-
 3. But a procedure that also needs a **database** and **filesystem** will need *lots* of injection
 
    > A high-level function needs *every single* service required by its subroutines
 
 
 
-* Mocks
+### Mocks
 
 ```python
 from mock import patch
@@ -210,9 +208,7 @@ def test_pluck_definition_missing():
 ```
 
 - **No** special set-up
-
 - **No** special preparation
-
 - Test calls are *symmetric* with normal calls
 
 
@@ -238,11 +234,8 @@ call_test(good_url, bad_data3)
 Top level = IO, bottom level = pure functions
 
 - 1st level - Frameworks and Drives: Devices, Web, DB, External Interfaces, UI
-
 - 2nd level - Interface Adapters: Controllers, Gateways, Presenters
-
 - 3rd level - Application Business Rules - Use Cases
-
 - 4th level - Enterprise Business Rules - Entities
 
   
@@ -291,18 +284,19 @@ def procedural_glue(wordlist):
 
 The biggest advantage of data in a functional programming style is *not* its immutability
 
- **It is simply the fact that it is data!**
+**It is simply the fact that it is data!**
 
 
 
 ## 1986
-McIlroy **vs.** Knuth
 
-“Given a text file and an integer *k,* print the *k* **most common** words in the file (and the number of their occurrences) in **decreasing frequency.**”
+McIlroy vs. Knuth
 
-Knuth: **10 pages of Pascal**
+“Given a text file and an integer *k* print the *k* **most common** words in the file (and the number of their occurrences) in **decreasing frequency.**”
 
-McIlroy: **6-line shell script**
+Knuth: 10 pages of Pascal
+
+McIlroy: 6-line shell script
 
 ```bash
 tr -cs A-Za-z '\n' |
@@ -333,11 +327,11 @@ But I want to draw a different lesson: **The shell script is simpler because it 
 
 - Luca https://github.com/brandon-rhodes/luca
 
-  - **Temptation**: Compute *output* fields as the form is running, *writing*their text into the PDF
-  - **Instead: phases**
-    - First read the entire tax form
-    - Then do all the computations
-    - Finally write to the PDF
+    - **Temptation**: Compute *output* fields as the form is running, *writing*their text into the PDF
+    - **Instead: phases**
+        - First read the entire tax form
+        - Then do all the computations
+        - Finally write to the PDF
 
 
 
@@ -345,7 +339,7 @@ But I want to draw a different lesson: **The shell script is simpler because it 
 
 **Old:** To get rid of I/O, make it subordinate
 
-**New: **To *really* get rid of someone, make them a *manager!*
+**New:** To *really* get rid of someone, make them a *manager!*
 
 
 
