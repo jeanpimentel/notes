@@ -19,5 +19,6 @@ So, there is a MAGIC way:
 export COLOREDLOGS_AUTO_INSTALL=1
 export COLOREDLOGS_LOG_FORMAT='%(asctime)s %(name)s %(levelname)s %(message)s'
 export COLOREDLOGS_DATE_FORMAT='%H:%M:%S'
+export COLOREDLOGS_FIELD_STYLES='asctime=green;name=magenta;levelname=white,bold'
 make run # or flask run, yarn start etc
 ```
