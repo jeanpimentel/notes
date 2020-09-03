@@ -29,6 +29,7 @@
 
 ### git
 
+- [fix commit and autosquash](git/fixup-2020-08-06.md) - 2020-08-06
 - [how to prefix your commit message with a ticket number automatically](git/prefix-your-commit-message-2020-06-16.md) - 2020-06-16
 - [cherry pick a range of commits](git/cherry-pick-a-range-of-commits-2020-05-04.md) - 2020-05-04
 - [list files changed between two branches](git/list-files-changed-between-branches-2020-05-04.md) - 2020-05-04
