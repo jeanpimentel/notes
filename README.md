@@ -18,6 +18,10 @@
 
 - [how to review pull requests](career/how-to-review-pull-requests-2019-07-03.md) - 2019-07-03
 
+### cicd
+
+- [jenkins - list installed plugins](cicd/jenkins-list-installed-plugins-2019-06-18.md) - 2019-06-18
+
 ### cooking
 
 - [notes](cooking/notes.md)
@@ -55,6 +59,8 @@
 
 ### javascript
 
+- [how to run a specific test in jest](javascript/run-a-specific-test-in-jest-2020-03-17.md) - 2020-03-17
+- [datetimeformat](javascript/datetimeformat.md)
 - [javascript references](javascript/references.md)
 
 ### macos
