@@ -43,6 +43,7 @@
 
 - [curiosities](human-languages/curiosities.md)
 - [english](human-languages/english.md)
+- [français](human-languages/francais.md)
 
 ### ios
 
